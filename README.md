@@ -2,6 +2,8 @@
 
 A delightful iOS app that brings you a new cute dog photo every time you tap! Built with **SwiftUI**, **SwiftData**, and modern architecture.
 ## [App Preview]
+
+<img width="1710" height="1112" alt="Screenshot 2026-04-06 at 11 28 22 AM" src="https://github.com/user-attachments/assets/08d4075e-93d7-4102-9414-6a526a4fdd0d" />
 <img width="613" height="954" alt="Screenshot 2026-04-06 at 11 24 41 AM" src="https://github.com/user-attachments/assets/c3f59141-d702-4aa4-b10b-d1f07fbd46df" />
 <img width="512" height="968" alt="Screenshot 2026-04-06 at 11 22 18 AM" src="https://github.com/user-attachments/assets/ed03a209-04b5-494f-afc3-a55c28229bf1" />
 <img width="477" height="955" alt="Screenshot 2026-04-06 at 11 22 06 AM" src="https://github.com/user-attachments/assets/0afdd2a0-10a7-4c61-be15-3c29d950db9c" />
