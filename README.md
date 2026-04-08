@@ -1,7 +1,8 @@
 # PawPal-Dog-Discovery-App 🐶✨
 
 A delightful iOS app that brings you a new cute dog photo every time you tap! Built with **SwiftUI**, **SwiftData**, and modern architecture.
-## [App Preview]
+
+## [App Preview](screenshots/dashboard.png)
 <img width="835" height="525" alt="image" src="https://github.com/user-attachments/assets/6356d71d-11f0-4e53-9ce8-f55b41c558f9" />
 <img width="613" height="954" alt="Screenshot 2026-04-06 at 11 24 41 AM" src="https://github.com/user-attachments/assets/c3f59141-d702-4aa4-b10b-d1f07fbd46df" />
 <img width="512" height="968" alt="Screenshot 2026-04-06 at 11 22 18 AM" src="https://github.com/user-attachments/assets/ed03a209-04b5-494f-afc3-a55c28229bf1" />
